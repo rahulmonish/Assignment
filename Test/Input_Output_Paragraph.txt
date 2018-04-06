@@ -1,0 +1,23 @@
+Input:
+Enter the paragraph with at least 4 sentence
+sandy is good. who is this? . I know him. Is this a good thing to do?
+
+Output:
+The paragraph input is:
+sandy is good. who is this? . I know him. Is this a good thing to do?
+
+Sentence after replacement
+sandy is good  who is this?  UST Global specializes in Healthcare, Retail & Consumer Goods, Banking & Financial Services, Telecom, Media & Technology, Insurance, Transportation & Logistics and Manufacturing & Utilities.  Is this a good thing to do?
+
+Vowel count is  18
+Upper character count is  2
+Lower character count is  46
+Special character count is 5
+
+Repeated words are ['is']
+
+Sentence after removing special Character is 
+ sandy is good who is this  I know him Is this a good thing to do
+
+Sentence after swapping
+Is this a good thing to do?  who is this?  UST Global specializes in Healthcare, Retail & Consumer Goods, Banking & Financial Services, Telecom, Media & Technology, Insurance, Transportation & Logistics and Manufacturing & Utilities. sandy is good
